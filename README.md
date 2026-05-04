@@ -13,6 +13,7 @@ Power BI Service, DAX, Power Query, and data modelling.
 📍 Visakhapatnam, Andhra Pradesh, India
 📧 swaroop.vathada@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/swaroopkumarvathada)
+🔗 [Power_BI_Portfolio](https://swaroop456.github.io/Power_BI_Developer_Portfolio/)
 
 
 ---
